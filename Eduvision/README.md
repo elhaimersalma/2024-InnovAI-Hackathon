@@ -50,6 +50,10 @@ Policymakers lack the tools to analyze trends, forecast challenges, and implemen
 
 
 ---
+## Video Demo
+AL MANARA is an AI-powered platform designed to enhance decision-making in the Moroccan educational sector. Developed during the Morocco AI Hackathon, it utilizes data from the PISA assessment to analyze educational performance, identify key clusters across regions, and recommend actionable policies aligned with OECD standards. By combining data analytics, machine learning, and AI-driven solutions, AL MANARA aims to demystify the educational landscape and contribute to the development of Morocco's education system.
+
+https://drive.google.com/drive/folders/12xce3UYZvytJcLsTYTKSLeOfcIIWX_o3?usp=sharing
 
 ## Instructions
 
